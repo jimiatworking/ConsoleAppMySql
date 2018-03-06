@@ -1,0 +1,8 @@
+E:\@UnitTest\ConsoleAppMySql\ConsoleAppMySql\bin\Debug\ConsoleAppMySql.exe.config
+E:\@UnitTest\ConsoleAppMySql\ConsoleAppMySql\bin\Debug\ConsoleAppMySql.exe
+E:\@UnitTest\ConsoleAppMySql\ConsoleAppMySql\bin\Debug\ConsoleAppMySql.pdb
+E:\@UnitTest\ConsoleAppMySql\ConsoleAppMySql\bin\Debug\MySql.Data.dll
+E:\@UnitTest\ConsoleAppMySql\ConsoleAppMySql\bin\Debug\MySql.Data.xml
+E:\@UnitTest\ConsoleAppMySql\ConsoleAppMySql\obj\Debug\ConsoleAppMySql.csprojResolveAssemblyReference.cache
+E:\@UnitTest\ConsoleAppMySql\ConsoleAppMySql\obj\Debug\ConsoleAppMySql.exe
+E:\@UnitTest\ConsoleAppMySql\ConsoleAppMySql\obj\Debug\ConsoleAppMySql.pdb
